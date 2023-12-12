@@ -40,7 +40,7 @@ console.log(animals.slice());
 ```
 
 ### 2. JS : setTimeout()  
-- 만료된 후 함수나 지정한 코드 조각을 실행하는 타이머를 설정    
+만료된 후 함수나 지정한 코드 조각을 실행하는 타이머를 설정    
 ```
 // myGreeting이 실행될 때까지 5초간 기다립니다.
 const myTimeout = setTimeout(myGreeting, 5000);
